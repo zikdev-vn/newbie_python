@@ -1,5 +1,6 @@
 # newbie_python
 
+## Font
 ```bash
 from colorama import Fore
 import pyfiglet
